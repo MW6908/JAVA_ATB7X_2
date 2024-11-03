@@ -12,4 +12,3 @@ for the exercise that we have done.
 - Design Pattern
 - File IO
 - Other Misc Concepts
-- 
